@@ -1,0 +1,2 @@
+# fastPython
+School exercise 
