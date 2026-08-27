@@ -1,2 +1,7 @@
 # fastPython
-School exercise 
+School exercise
+
+## Used Technologies
+Python
+FastAPI
+SQL
