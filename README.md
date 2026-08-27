@@ -2,6 +2,6 @@
 School exercise
 
 ## Used Technologies
-Python
-FastAPI
-SQL
+Python  
+FastAPI  
+SQL  
